@@ -1,6 +1,6 @@
 # 🎬 Catálogo de Filmes - App Flutter
 
-Aplicativo desenvolvido como atividade final da disciplina **Programação para Dispositivos Móveis (2025.1)** do curso de ADS/CCO.
+Aplicativo desenvolvido como atividade final da disciplina **Programação para Dispositivos Móveis (2025.1)** do curso de CCO.
 
 Este projeto tem como objetivo permitir o **cadastro, listagem, exibição, edição e remoção de filmes** em um banco de dados local, utilizando o Flutter e SQLite.
 
