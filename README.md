@@ -56,7 +56,62 @@ Este projeto tem como objetivo permitir o **cadastro, listagem, exibição, edi�
 
 ## 🖼️ Exemplos Visuais
 
-> (Aqui você pode adicionar screenshots do app ou GIFs demonstrando o uso.)
+<table>
+     <tr>
+         <td align="center">
+      <strong>Tela Inicial</strong><br>
+      <img src="screenshots/tela_inicial.png" width="200">
+    </td>
+    <td align="center">
+      <strong>Tela de Adicionar</strong><br>
+      <img src="screenshots/tela_de_adicionar.png" width="200">
+    </td>
+       <td align="center">
+      <strong>Adicionar Preenchido</strong><br>
+      <img src="screenshots/adicionar_preenchido.png" width="200">
+    </td>
+      <td align="center">
+      <strong>Filme Adicionado</strong><br>
+      <img src="screenshots/filme_adicionado.png" width="200">
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+      <td align="center">
+      <strong>Tela Inicial</strong><br>
+      <img src="screenshots/filme_adicionado.png" width="200">
+    </td>
+      <td align="center">
+      <strong>Excluindo o Filme</strong><br>
+      <img src="screenshots/excluindo_o_filme.png" width="200">
+    </td>
+    <td align="center">
+      <strong>Confirmação de Exclusão</strong><br>
+      <img src="screenshots/confirmação_de_exclusao.png" width="200">
+    </td>
+      <td align="center">
+      <strong>Filme Excluído com Sucesso</strong><br>
+      <img src="screenshots/filme_excluido_com_sucesso.png" width="200">
+    </td>
+    <tr>
+      <td align="center">
+      <strong>Tela Inicial</strong><br>
+      <img src="screenshots/filme_adicionado.png" width="200">
+    </td>
+      <td align="center">
+      <strong>Opções de Card</strong><br>
+      <img src="screenshots/opções_de_card.png" width="200">
+    </td>
+      <td align="center">
+      <strong>Exibindo Detalhe</strong><br>
+      <img src="screenshots/exibindo_detalhe.png" width="200">
+    </td>
+    <td align="center">
+      <strong>Alterar Dados</strong><br>
+      <img src="screenshots/alterar_dados.png" width="200">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -64,5 +119,5 @@ Este projeto tem como objetivo permitir o **cadastro, listagem, exibição, edi�
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/CC-UNIPE-MARLONRN/app_filmes.git
+   cd app_filmes
