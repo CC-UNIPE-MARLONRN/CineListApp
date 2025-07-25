@@ -1,4 +1,4 @@
-# 🎬 Catálogo de Filmes - App Flutter
+# 🎬 Catálogo de Filmes - CineList
 
 Aplicativo desenvolvido como atividade final da disciplina **Programação para Dispositivos Móveis (2025.1)** do curso de CCO.
 
@@ -119,5 +119,5 @@ Este projeto tem como objetivo permitir o **cadastro, listagem, exibição, edi�
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/CC-UNIPE-MARLONRN/app_filmes.git
-   cd app_filmes
+   git clone https://github.com/CC-UNIPE-MARLONRN/CineListApp.git
+   cd CineListApp
