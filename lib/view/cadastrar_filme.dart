@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:app_filmes/controller/filme_controller.dart';
+import 'package:CineListApp/controller/filme_controller.dart';
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';
 
 class CadastrarFilme extends StatefulWidget {

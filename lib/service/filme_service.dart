@@ -1,5 +1,5 @@
-import 'package:app_filmes/model/filme.dart';
-import 'package:app_filmes/dao/filme_dao.dart';
+import 'package:CineListApp/model/filme.dart';
+import 'package:CineListApp/dao/filme_dao.dart';
 
 class FilmeService{
   final _filmeDao = FilmeDao();

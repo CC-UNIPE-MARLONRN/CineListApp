@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';
-import 'package:app_filmes/model/filme.dart';
+import 'package:CineListApp/model/filme.dart';
 import '../service/filme_service.dart';
 
 class AlterarFilme extends StatefulWidget {

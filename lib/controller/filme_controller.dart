@@ -1,5 +1,5 @@
-import 'package:app_filmes/model/filme.dart';
-import 'package:app_filmes/service/filme_service.dart';
+import 'package:CineListApp/model/filme.dart';
+import 'package:CineListApp/service/filme_service.dart';
 
 class FilmeController{
   final _service = FilmeService();

@@ -1,9 +1,9 @@
-import 'package:app_filmes/view/cadastrar_filme.dart';
-import 'package:app_filmes/view/detalhar_filme.dart';
-import 'package:app_filmes/view/alterar_filme.dart';
+import 'package:CineListApp/view/cadastrar_filme.dart';
+import 'package:CineListApp/view/detalhar_filme.dart';
+import 'package:CineListApp/view/alterar_filme.dart';
 import 'package:flutter/material.dart';
-import 'package:app_filmes/controller/filme_controller.dart';
-import 'package:app_filmes/model/filme.dart';
+import 'package:CineListApp/controller/filme_controller.dart';
+import 'package:CineListApp/model/filme.dart';
 
 class ListarFilmes extends StatefulWidget {
   const ListarFilmes({super.key});

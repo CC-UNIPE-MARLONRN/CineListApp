@@ -1,5 +1,5 @@
-import 'package:app_filmes/database/database_helper.dart';
-import 'package:app_filmes/model/filme.dart';
+import 'package:CineListApp/database/database_helper.dart';
+import 'package:CineListApp/model/filme.dart';
 
 class FilmeDao {
   late DatabaseHelper dbHelper;
@@ -46,7 +46,7 @@ class FilmeDao {
           whereArgs: [filme.id]
       );
     }catch(e){
-
+       return null;
     }
   }
 
